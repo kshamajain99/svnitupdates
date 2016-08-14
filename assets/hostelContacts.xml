@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hostels>
+
+    	<cow>
+        	<designation>Director</designation>
+            <name>Dr. P. D. Porey</name>
+            <number>+91 9825149292 , 0261 2227334</number>
+            <email>director@svnit.ac.in</email>
+    	</cow>
+
+    	<cow>
+        	<designation>Registrar</designation>
+            <name>Mr. H. A. Parmar</name>
+            <number>+91 9825141177 , 0261 2201509   </number>
+            <email>registrar@svnit.ac.in</email>
+    	</cow>
+
+    	<cow>
+        	<designation>Dean Students Welfare</designation>
+            <name>Dr. V. L. Manekar</name>
+            <number>+91 9904003865 , 0261 2201701</number>
+            <email>vlm@ced.svnit.ac.in</email>
+    	</cow>
+    	
+	 	<cow>
+        	<designation>Co- Chairman, Council of Warden</designation>
+            <name>Dr. Ravi Kant</name>
+            <number>+91 9714827744 , 0261 2201602</number>
+            <email>ravi.kant@med.svnit.ac.in</email>
+    	</cow>
+    	
+    	
+        <bhabha>
+            <designation>Chief Warden</designation>
+            <name>Shri Abhilash Mandloi</name>
+            <number>+91 9904403858</number>
+            <email>asm@eced.svnit.ac.in</email>
+        </bhabha>
+     
+        <bhabha>
+            <designation>Warden</designation>
+            <name>Dr. Srinivas Arkhatkar</name>
+            <number>+91 8140252777</number>
+            <email>sarkatkar@ced.svnit.ac.in</email>
+        </bhabha>
+
+      <bhabha>
+            <designation>Warden</designation>
+            <name>Dr. L. K. Saini</name>
+            <number>+91 9714780044</number>
+            <email>lks@ashd.svnit.ac.in</email>
+        </bhabha>
+        
+        <bhabha>
+            <designation>Warden</designation>
+            <name>Shri Bhavesh Gohil</name>
+            <number>+91 7698851518</number>
+            <email>bng@coed.svnit.ac.in</email>
+        </bhabha>
+
+	<gajjar>
+        	<designation>Chief Warden</designation>
+            <name>Dr. M. K. Rathod</name>
+            <number>+91 9904003856 , 0261-2201966</number>
+            <email>mkr@med.svnit.ac.in</email>
+    	</gajjar>
+    	
+		<gajjar>
+        	<designation>Warden</designation>
+            <name>Dr. Ranjankumar Pati</name>
+            <number>+91 9913965196 , 0261 2201655</number>
+            <email>rkp@ashd.svnit.ac.in</email>
+    	</gajjar>
+    	
+		<gajjar>
+        	<designation>Warden</designation>
+            <name>Dr. Rajendra Kumar</name>
+            <number>+91 8758187099 , 0261 2201655</number>
+            <email>rajenderkumar@ashd.svnit.ac.in</email>
+    	</gajjar>
+
+		<gajjar>
+        	<designation>Warden</designation>
+            <name>Dr. Debesh Ranjan Roy</name>
+            <number>+91 9409086077 , 0261 2201184</number>
+            <email>drr@ashd.svnit.ac.in</email>
+    	</gajjar>
+
+		<gajjar>
+        	<designation>Warden</designation>
+            <name>Shri S. R. Suryawanshi</name>
+            <number>+91 9904402946 , 0261 2201816</number>
+            <email>srs@amd.svnit.ac.in</email>
+    	</gajjar>
+    	
+		<sarabhai>
+        	<designation>Chief Warden</designation>
+            <name>Dr. H. K. Dave</name>
+            <number>+91 9099567939 , 0261 2201988</number>
+            <email>hkd@med.svnit.ac.in</email>
+    	</sarabhai>
+    	
+    	<sarabhai>
+        	<designation>Warden</designation>
+            <name>Dr. B. Kondraivendhan</name>
+            <number>+91 9498007025</number>
+            <email>bkv@amd.svnit.ac.in</email>
+    	</sarabhai>
+
+    	<tagore>
+        	<designation>Chief Warden</designation>
+            <name>Dr. Rakesh Maurya</name>
+            <number>+91 9574109888 , 0261 2201663</number>
+            <email>rmaurya@eed.svnit.ac.in</email>
+    	</tagore>
+
+    	<tagore>
+        	<designation>Warden</designation>
+            <name>Mr. Anil Kumar Mahto</name>
+            <number>+91 9904444599 , 0261 2201964</number>
+            <email>mak@med.svnit.ac.in</email>
+    	</tagore>
+ 
+    	<nehru>
+        	<designation>Chief Warden</designation>
+            <name>Dr. V. D. Kalyankar</name>
+            <number>+91 9510828842 , 0261 2201983</number>
+            <email>vkalyankar@med.svnit.ac.in</email>
+    	</nehru>	
+    	
+    	<nehru>
+        	<designation>Warden</designation>
+            <name>Dr. K. D. Yadav</name>
+            <number>+91 9428398266 , 0261 2201821</number>
+            <email>kdy@ced.svnit.ac.in</email>
+    	</nehru>	
+    	
+    	<raman>
+        	<designation>Chief Warden</designation>
+            <name>Dr. Sabha Raj Arya</name>
+            <number>+91 8758210861 , 0261 2201560</number>
+            <email>sra@eed.svnit.ac.in</email>
+    	</raman>	
+    		
+    	<narmad>
+        	<designation>Chief Warden</designation>
+            <name>Dr. Ranjit Roy</name>
+            <number>+91 9904402937 , 0261 2201664</number>
+            <email>rr@eed.svnit.ac.in</email>
+    	</narmad>	
+    	
+    		
+    	
+    	<swami>
+        	<designation>Chief Warden</designation>
+            <name>Dr. S. R. Patel</name>
+            <number>+91 9904456199</number>
+            <email>srp@ched.svnit.ac.in</email>
+    	</swami>
+    	
+    	<swami>
+        	<designation>Warden</designation>
+            <name>Dr. Dinesh Singh</name>
+            <number>+91 9924333996 </number>
+            <email>dsingh@med.svnit.ac.in</email>
+    	</swami>
+
+    	<swami>
+        	<designation>Warden</designation>
+            <name>Dr. Ketan Kuperkar</name>
+            <number>+91 9998651458</number>
+            <email>kck@ashd.svnit.ac.in</email>
+    	</swami>
+    	
+    	<swami>
+        	<designation>Warden</designation>
+            <name>Shri Nikunj Patel</name>
+            <number>+91 9428884696</number>
+            <email>ngp@med.svnit.ac.in</email>
+    	</swami>
+
+    	<mtb>
+    	    <designation>Chief Warden</designation>
+            <name>Dr. Urvashi Kausal</name>
+            <number>+91 9998218126</number>
+            <email>k.urvashi@ashd.svnit.ac.in</email>
+    	</mtb> 
+		
+    	<mtb>
+    	    <designation>Warden</designation>
+            <name>Dr. Twinkle Singh</name>
+            <number>+91 9898374543</number>
+            <email>twinklerpatel@yahoo.com</email>
+    	</mtb> 
+		
+    	<mtb>
+    	    <designation>Warden</designation>
+            <name>Dr. Vasundhara Mahajan</name>
+            <number>+91 9904222977</number>
+            <email>vmahajan@eed.svnit.ac.in</email>
+    	</mtb> 
+		
+    	<mtb>
+    	    <designation>Warden</designation>
+            <name>Dr. Kalpana Maheria</name>
+            <number>+91 9426386339</number>
+            <email>kcm@ashd.svnit.ac.in</email>
+    	</mtb> 
+    	
+    	<office>
+    	    <designation>Hostel Section office</designation>
+    	    <name>0261 2210332</name>
+            <number>0261 2201602</number>
+            <email>FAX: 0261 2258709</email>
+    	</office>
+		
+</hostels>

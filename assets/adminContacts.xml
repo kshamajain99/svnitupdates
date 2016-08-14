@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<admin>
+
+        <dean>
+            <designation>Dean (Research and Consultancy)</designation>
+            <name>Dr. Vivekanand Mishra</name>
+            <number>97235-55491, 0261-2201705</number>
+            <email>dean_rnc@svnit.ac.in</email>
+        </dean>
+    
+        <dean>
+            <designation>Dean(Planning and Development)</designation>
+            <name>Dr. S  A  Vasanwala</name>
+            <number>9879458558, 0261-2201707</number>
+            <email>dean_pl@svnit.ac.in</email>
+        </dean>
+
+        <dean>
+            <designation>Dean(Academic)</designation>
+            <name>Dr. G. J. Joshi</name>
+            <number>98795-64862, 0261-2201702</number>
+            <email>dean_acad@svnit.ac.in</email>
+        </dean>
+
+        <dean>
+            <designation>Dean(Student Welfare)</designation>
+            <name>Dr. V. L. Manekar</name>
+            <number>99040-03865, 0261-2201701</number>
+            <email>dean_sw@svnit.ac.in</email>
+        </dean>
+
+        <dean>
+            <designation>Dean (Alumni and Resource)</designation>
+            <name>Dr. D. V. Bhatt</name>
+            <number>99250-43773, 0261-2201704</number>
+            <email>dean_arg@svnit.ac.in</email>
+        </dean>
+
+        <dean>
+            <designation>Asso. Dean FW</designation>
+            <name>Dr. P. G. Agnihotri</name>
+            <number>9924207781, 0261-2201523</number>
+            <email>adean_fw@svnit.ac.in</email>
+        </dean>
+        
+        <dean>
+            <designation>Asso. Dean P and D</designation>
+            <name>Shri B.J. Batliwala</name>
+            <number>0261-2201522</number>
+            <email>adean_pd@svnit.ac.in</email>
+        </dean>
+
+		<dean>
+            <designation>Asso. Dean Acad.</designation>
+            <name>Dr. S.Kumar</name>
+            <number>9898082293, 0261-2201697</number>
+            <email>adean_acad@svnit.ac.in</email>
+        </dean>
+
+		<dean>
+            <designation>Asso. Dean SW</designation>
+            <name>Dr. Ravi Kant</name>
+            <number>9714827744, 0261-2201846</number>
+            <email>adean_sw@svnit.ac.in</email>
+        </dean>
+                                
+	    <registrar>
+        	<designation>Registrar</designation>
+            <name>Mr. H. A. Parmar</name>
+            <number>+91 9825141177 , 0261 2201509   </number>
+            <email>registrar@svnit.ac.in</email>
+    	</registrar>
+
+		<registrar>
+        	<designation>Dy. Registrar (ACADEMIC)</designation>
+            <name>Shri M. N. Patel</name>
+            <number>0261-2201511</number>
+            <email>dy_acad@svnit.ac.in</email>
+    	</registrar>
+
+		<registrar>
+        	<designation>I/C Dy. Registrar (ACCOUNT)</designation>
+            <name>Shri Mayank Desai</name>
+            <number>0261-2201620</number>
+            <email>dy_acc@svnit.ac.int.ac.in</email>
+    	</registrar>
+
+    	
+    	<acad>
+    	    <designation>Exam Section</designation>
+            <name>0261-2201617</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>B.Tech.I</designation>
+            <name>0261-2201843</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>B.Tech.II</designation>
+            <name>0261-2201839</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>B.Tech.IV</designation>
+            <name>0261-2201840</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>M.Sc.</designation>
+            <name>0261-2201842</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>M.Tech.</designation>
+            <name>0261-2201841</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>Ph.D.</designation>
+            <name>0261-2201512</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	
+    	<acad>
+    	    <designation>Scholarship</designation>
+            <name>0261-2201844</name>
+            <number></number>
+            <email></email>
+    	
+    	</acad>
+    	<other>
+        	<designation>Assistant Librarian</designation>
+            <name>Shri A. K. Sharma</name>
+            <number>0261-2201788</number>
+            <email>librarian@svnit.ac.in</email>
+    	</other>
+
+    	<other>
+        	<designation>Student Activity Center</designation>
+            <name>Dr. N. K. Datta</name>
+            <number>0261-2201550</number>
+            <email>nkd@svnit.ac.in</email>
+    	</other>
+    	
+    	<other>
+        	<designation>Training and Placement Section</designation>
+            <name>0261-2201540</name>
+            <number></number>
+            <email></email>
+    	</other>
+    	
+    	<other>
+        	<designation>Central Computer Centre (CCC)</designation>
+            <name>0261-2201724</name>
+            <number></number>
+            <email></email>
+    	
+    	</other>
+    	
+		<other>
+        	<designation>Alumni office</designation>
+            <name>0261-2201192, 0261-2201193</name>
+            <number></number>
+            <email></email>
+    	
+    	</other>
+    	
+</admin>

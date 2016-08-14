@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/dark_list"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/designation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:text="Android Application"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Ename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web|phone"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:text="SVNIT Updates (App)"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="phone"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:text="+91 9876543210" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web|email"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:text="svnitupdate@gmail.com"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>

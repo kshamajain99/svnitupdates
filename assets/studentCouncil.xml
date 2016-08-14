@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<council>
+        <ew>
+            <designation>Student General Secretary</designation>
+            <name>Arpit Nawal (B. TECH-IV CHED)</name>
+            <number>+918238753500</number>
+            <email>arpitnawal11@gmail.com</email>
+        </ew>
+        
+        <ew>
+            <designation>Speaker</designation>
+            <name>Vishal Singh (B. TECH-IV COED)</name>
+            <number>+918866542833</number>
+            <email>rvishalsingh93@gmail.com</email>
+        </ew>
+        
+        <ew>
+            <designation>Research and Innovation Affairs Secretary</designation>
+            <name>Gaurav Kumar (B. TECH-IV ECED)</name>
+            <number>+919426703618</number>
+            <email>gaurav2013@gmail.com</email>
+        </ew>
+        <ew>
+            <designation>Cultural Affairs Secretary</designation>
+            <name>Aagam Shah (B. TECH-IV ECED)</name>
+            <number>+919033994248</number>
+            <email>aagam001@gmail.com</email>
+        </ew>
+		
+        <ew>
+            <designation>Co-Curricular Affairs Secretary</designation>
+            <name>Malav Patel (B. TECH-IV MED)</name>
+            <number>+919624336681</number>
+            <email>malavpx@gmail.com</email>
+        </ew>
+        
+        <ew>
+            <designation>Alumni and Training-Placement Affairs Secretary</designation>
+            <name>Chirag Khandelwal (B. TECH-IV EED)</name>
+            <number>+918488021091</number>
+            <email>khandelwalchirag18@gmail.com</email>
+        </ew>
+        
+        <ew>
+            <designation>Sports Secretary</designation>
+            <name>Mukesh Gurjar (B. TECH-IV ECED)</name>
+            <number>+918401343945</number>
+            <email>mukesh15165@gmail.com</email>
+        </ew>
+        
+        
+    	<ew>
+            <designation>Academic Affairs Secretary</designation>
+            <name>Jiggar Goyal (B. TECH-IV MED)</name>
+            <number>+919033931496</number>
+            <email>jiggar.svnit@gmail.com</email>
+        </ew>
+        
+    	<ew>
+            <designation>Hostel Affairs Secretary</designation>
+            <name>Atul Gaur (B. TECH-IV EED)</name>
+            <number>+918511659353</number>
+            <email>atul1593@gmail.com</email>
+        </ew>
+        
+        
+    	<sac>
+        	<designation>B.Tech I Counsellor</designation>
+            <name>Naveen Thotapalli(B. TECH-I ECED), Sagar Jariwala(B. TECH-I EED), Arjav Vashi(B. TECH-I MED)</name>
+            <number>09574794382, 09662284556, 09408930206</number>
+            <email>naveenganesh04@gmail.com, sagar.r.jariwala@gmail.com, aarjav.vashi2009@gmail.com</email>
+    	</sac>
+    	
+    	
+    	<sac>
+        	<designation>B.Tech Branch Counsellor-Chemical Engg</designation>
+            <name>Suraj Dixit (B. TECH-III CHED)</name>
+            <number>07600405048</number>
+            <email>surya.dixit55555@gmail.com</email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>B.Tech Branch Counsellor-Civil Engg</designation>
+            <name>Sunny Bhargava (B. TECH-III CED)</name>
+            <number>09033116355</number>
+            <email>sunnybhargava.india@gmail.com</email>
+    	</sac>
+    	 
+    	 <sac>
+        	<designation>B.Tech Branch Counsellor-Computer Engg</designation>
+            <name>Palash Oswal (B. TECH-III COED)</name>
+            <number>09737045733</number>
+            <email>oswalpalash@gmail.com</email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>B.Tech Branch Counsellor-Electrical Engg</designation>
+            <name>Vikas Chaturvedi (B. TECH-III EED)</name>
+            <number>08401420604</number>
+            <email>vikas241993@gmail.com</email>
+    	</sac>
+    	    	<sac>
+        	<designation>B.Tech Branch Counsellor-Electronics Engg</designation>
+            <name>Vivek Ghelani (B. TECH-IV ECED)</name>
+            <number>09638705471</number>
+            <email>vivekghelani11111@gmail.com</email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>B.Tech Branch Counsellor-Mechanical Engg</designation>
+            <name>Akshat Kapadia (B. TECH-III MED)</name>
+            <number>08460094924</number>
+            <email>akshatkapadia94@gmail.com</email>
+    	</sac>
+
+    	<sac>
+        	<designation>M.Sc. I Counsellor</designation>
+            <name>Nikhil Agrawal (M.Sc.-I ASHD)</name>
+            <number></number>
+            <email></email>
+    	</sac>
+
+    	<sac>
+        	<designation>M.Sc. II to IV Counsellor</designation>
+            <name>Ankit Patel (M.Sc.-IV ASHD)</name>
+            <number>9924404023</number>
+            <email>ankitpatel.svnit@gmail.com</email>
+    	</sac>
+
+    	<sac>
+        	<designation>M.Tech Counsellor</designation>
+            <name>Khushbu Bhatt (M. TECH-II CED), Utkarsh Upadhyay(M. TECH-II CED)</name>
+            <number>09714792006, 08460168141</number>
+            <email>k22112011@gmail.com, utkarshupadhyay006@gmail.com</email>
+    	</sac>
+
+    	<sac>
+        	<designation>SAC - Day Scholar</designation>
+            <name>Rajan Patel (B. TECH-III CED)</name>
+            <number></number>
+            <email></email>
+    	</sac>
+    	
+    	
+    	<sac>
+        	<designation>Hostel Secretary(Mother Teresa Bhavan)</designation>
+            <name>Devyani Gupta (B. TECH-IV CHD)</name>
+            <number>08511314172</number>
+            <email>devyani.gupta5@gmail.com</email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>Hostel Secretary(Swami Vivekanand Bhavan)</designation>
+            <name>Shakti Rajpurohit (B. TECH-IV EED)</name>
+            <number>07383955015</number>
+            <email>ssr.svnit@gmail.com</email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>Hostel Secretary(Gajjar Bhavan)</designation>
+            <name>Chintan Akahani (M. TECH-II MED)</name>
+            <number></number>
+            <email></email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>Hostel Secretary(Bhabha Bhavan)</designation>
+            <name>Abhishek Tripathi(B. TECH-III MED)</name>
+            <number>09429252214</number>
+            <email>manitripathi.abhishek2408@gmail.com</email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>Hostel Secretary(Tagore Bhavan)</designation>
+            <name>Abhishek Chopada (B. TECH-II CED)</name>
+            <number></number>
+            <email></email>
+    	</sac>
+    	
+    	<sac>
+        	<designation>Hostel Secretary(Nehru Bhavan)</designation>
+            <name>Kuldeep Vamja(B. TECH-II EED)</name>
+            <number></number>
+            <email></email>
+    	</sac>
+    	
+
+</council>

@@ -1,0 +1,94 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="${packageName}.${activityClass}" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/dark_list" >
+
+                <TextView
+                    android:id="@+id/updateHeadline"
+                    android:layout_width="236dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.42"
+                    android:background="@color/dark_list"
+                    android:padding="5dp"
+                    android:text="UPDATE"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textStyle="bold" />
+
+                <ImageButton
+                    android:id="@+id/buttonAdd"
+                    android:layout_width="50dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:src="@drawable/reminder" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/dark_list"
+                android:paddingBottom="2dp"
+                android:paddingTop="2dp" >
+
+                <TextView
+                    android:id="@+id/textViewTag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1.00"
+                    android:padding="2dp"
+                    android:text="Tag"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <TextView
+                    android:id="@+id/textViewTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_weight="1.00"
+                    android:gravity="end"
+                    android:paddingBottom="2dp"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="4dp"
+                    android:paddingTop="2dp"
+                    android:text="Timestamp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/updateDetails"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="email|web|phone|map"
+            android:background="@color/light_list"
+            android:padding="5dp"
+            android:text="DETAILS"
+            android:textAppearance="?android:attr/textAppearance" />
+    </LinearLayout>
+
+</ScrollView>

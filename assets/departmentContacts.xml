@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<department>
+
+        <appmech>
+            <designation>Head of Department</designation>
+            <name>Dr. Vivekanand Mishra</name>
+            <number>97235-55491, 0261-2201705</number>
+            <email>dean_rnc@svnit.ac.in</email>
+        </appmech>
+    
+        <appmech>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/amd/index.php</name>
+            <number>Contact Number: 0261-2201532</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=AMD</email>
+        </appmech>
+        
+        <appchem>
+            <designation>Head of Department</designation>
+            <name>Dean(Academic)</name>
+            <number>98794-58558, 0261-2201702</number>
+            <email>dean_acad@svnit.ac.in</email>
+        </appchem>
+    
+	 	<appchem>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/acd/index.php</name>
+            <number>Contact Number: 0261-2201792</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=ACD</email>
+        </appchem>
+        
+        <appmh>
+            <designation>Head of Department</designation>
+            <name>Dr.M. N. Mehta</name>
+            <number>98254-78307, 0261-2201786</number>
+            <email>hod_maths@ashd.svnit.ac.in</email>
+        </appmh>
+ 
+        <appmh>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/amhd/index.php</name>
+            <number>Contact Number: 0261-2201542</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=AMHD</email>
+        </appmh>
+        
+       	<appphy>
+            <designation>Head of Department</designation>
+            <name>Dean(Academic)</name>
+            <number>98794-58558, 0261-2201702</number>
+            <email>dean_acad@svnit.ac.in</email>
+        </appphy>
+    
+        <appphy>
+            <designation>Office</designation>
+            <name>Website: http://svnit.ac.in/deptt/apd/index.php</name>
+            <number>Contact Number: 0261-2201542</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=APD</email>
+        </appphy>
+        
+        <civil>
+            <designation>Head of Department</designation>
+			<name>Dr. P. L. Patel</name>
+            <number>99040-03857, 0261-2201521</number>
+            <email>hod@ced.svnit.ac.in</email>
+        </civil>
+    
+        <civil>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/ced/index.php</name>
+            <number>Contact Number: 0261-2201522</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=CED</email>
+        </civil>
+        
+        <chem>
+            <designation>Head of Department</designation>
+			<name>Dr. J. K. Parikh</name>
+            <number>0261-2201689, 0261-2201641</number>
+            <email>hod@ched.svnit.ac.in</email>
+        </chem>
+    
+        <chem>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/ched/index.php</name>
+            <number>Contact Number: 0261-2201642</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=CHED</email>
+        </chem>
+        
+        <comp>
+            <designation>Head of Department</designation>
+            <name>Dr. D. R. Patel</name>
+            <number>0261-220-1591</number>
+            <email>hod@coed.svnit.ac.in</email>
+        </comp>
+    
+        <comp>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/coed/index.php</name>
+            <number>Contact Number: 0261-2201592</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=COED</email>
+        </comp>
+        
+	  	<trical>
+            <designation>Head of Department</designation>
+            <name>Dr.A. Chowdhury</name>
+            <number>93745-31710, 0261-2201561</number>
+            <email>hod@eed.svnit.ac.in</email>
+        </trical>
+    
+	  	<trical>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/eled/index.php</name>
+            <number>Contact Number: 0261-2201562</number>
+            <email>Faculty: http://www.svnit.ac.in/deptt/eled/faculty.php</email>
+        </trical>
+        
+        <tronic>
+            <designation>Head of Department</designation>
+            <name>Dr. U. D. Dalal</name>
+            <number>98980-57727, 0261-2201551</number>
+            <email>hod@eced.svnit.ac.in</email>
+        </tronic>
+    
+	 	<tronic>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/eced/index.php</name>
+            <number>Contact Number: 0261-2201552</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=ECED</email>
+        </tronic>
+        
+        <mech>
+            <designation>Head of Department</designation>
+            <name>Dr. H. J. Nagarsheth</name>
+            <number>98241-10447, 0261-2201571</number>
+            <email>hod@med.svnit.ac.in</email>
+        </mech>
+    
+        <mech>
+            <designation>Office</designation>
+            <name>Website: http://www.svnit.ac.in/deptt/med/index.php</name>
+            <number>Contact Number: 0261-2201572</number>
+            <email>Faculty: http://www.svnit.ac.in/facup/showfaculty.php?deptname=MED</email>
+        </mech>
+
+</department>
